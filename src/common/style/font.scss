@@ -1,0 +1,127 @@
+@font-face {
+  font-family:'sell-icon';
+  src: url('../font/sell-icon.eot?k5xf13');
+  src: url('../font/sell-icon.eot?k5xf13#iefix') format('embedded-opentype'),
+    url('../font/sell-icon.ttf?k5xf13') format('truetype'),
+    url('../font/sell-icon.woff?k5xf13') format('woff'),
+    url('../font/sell-icon.svg?k5xf13#sell-icon') format('svg');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+// @font-face {
+//   font-family: 'iconfont';  /* project id 571687 */
+//   src: url('//at.alicdn.com/t/font_571687_v7c94vw8pm8to6r.eot');
+//   src: url('//at.alicdn.com/t/font_571687_v7c94vw8pm8to6r.eot?#iefix') format('embedded-opentype'),
+//   url('//at.alicdn.com/t/font_571687_v7c94vw8pm8to6r.woff') format('woff'),
+//   url('//at.alicdn.com/t/font_571687_v7c94vw8pm8to6r.ttf') format('truetype'),
+//   url('//at.alicdn.com/t/font_571687_v7c94vw8pm8to6r.svg#iconfont') format('svg');
+// }
+
+
+// .iconfont {
+//   font-family:"iconfont" !important;
+//   font-size:16px;
+//   font-style:normal;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+// }
+// [class^='icon-'] - classes starting with 'icon-'
+// [class*='icon']  - classes containing 'icon' 
+[class^="icon-"], [class*=" icon-"] {
+  font-family:'sell-icon' !important;
+  speak:none;
+  font-style:normal;
+  font-weight:normal;
+  font-variant:normal;
+  text-transform:none;
+  line-height:1;
+  // 优化字体显示的样式
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+
+}
+  
+
+.icon-arrow_left:before {
+  content:"\e900"
+}
+  
+.icon-thumb_up:before {
+  content:"\e901"
+}
+  
+.icon-thumb_dowm:before {
+  content:"\e902"
+}
+
+.icon-shopping_cart:before {
+  content:"\e903"
+}
+  
+.icon-favorite:before {
+  content:"\e904"
+}
+
+.icon-check_circle:before {
+  content:"\e905"
+}
+
+.icon-close:before {
+  content:"\e906"
+}
+
+.icon-remove_circle_outline:before {
+  content:"\e907"
+}
+  
+.icon-add_circle:before {
+  content:"\e908"
+}
+  
+.icon-keyboard_arrow_right:before {
+  content:"\e909"
+}
+
+
+
+// .icon-arrow_left:before {
+//   content:"\e600"
+// }
+  
+// .icon-thumb_up:before {
+//   content:"\e603"
+// }
+  
+// .icon-thumb_dowm:before {
+//   content:"\e605"
+// }
+
+// .icon-shopping_cart:before {
+//   content:"\e601"
+// }
+  
+// .icon-favorite:before {
+//   content:"\e607"
+// }
+
+// .icon-check_circle:before {
+//   content:"\e606"
+// }
+
+// .icon-close:before {
+//   content:"\e609"
+// }
+
+// .icon-remove_circle_outline:before {
+//   content:"\e604"
+// }
+  
+// .icon-add_circle:before {
+//   content:"\e602"
+// }
+  
+// .icon-keyboard_arrow_right:before {
+//   content:"\e608"
+// }
