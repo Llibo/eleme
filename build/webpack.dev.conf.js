@@ -1,8 +1,3 @@
-// 1 将hot-reload相关的代码添加到entry chunks
-// 2 合并基础的webpack配置
-// 3 使用styleLoaders
-// 4 配置Source Maps
-// 5 配置webpack插件
 var utils = require('./utils')
 var webpack = require('webpack')
 var config = require('../config')

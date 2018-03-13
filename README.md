@@ -1,6 +1,20 @@
-# shoppingmall
+# elleme
 
-> 	
+## 技术栈
+``` 
+vue2.0
+vue-router
+axios
+ES6
+sass
+better-scroll
+mock(数据模拟)
+```
+
+## 说明
+``` 
+高仿饿了么商家页面，项目中很多地方可以再进一步的进行优化抽成组件的，比较适合入门vue
+```
 
 ## Build Setup
 
